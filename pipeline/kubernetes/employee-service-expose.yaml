@@ -4,7 +4,6 @@ metadata:
   labels:
     app: employee-service
   name: employee-service
-  namespace: kanwalnainsingh
 spec:
   ports:
   - port: 8083

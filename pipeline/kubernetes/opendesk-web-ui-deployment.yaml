@@ -1,7 +1,6 @@
 apiVersion: apps/v1             # API version
 kind: Deployment                # Type of kubernetes resource
 metadata:
-  namespace: kanwalnainsingh
   name: opendesk-web-ui
   labels:
     app: opendesk-web-ui

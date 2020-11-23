@@ -4,7 +4,6 @@ metadata:
   labels:
     app: desk-service
   name: desk-service
-  namespace: kanwalnainsingh
 spec:
   ports:
   - port: 8082

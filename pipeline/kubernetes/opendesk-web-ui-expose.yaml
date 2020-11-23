@@ -4,7 +4,6 @@ metadata:
   labels:
     app: opendesk-web-ui
   name: opendesk-web-ui
-  namespace: kanwalnainsingh
 spec:
   ports:
     - port: 80

@@ -4,7 +4,6 @@ metadata:
   labels:
     app: opendesk-web-ui
   name: opendesk-web-ui-expose
-  namespace: default
 spec:
   ports:
     - port: 3000
